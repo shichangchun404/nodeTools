@@ -1,0 +1,26 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "multer": "^1.3.0",
+    "nmp-test-shicc3": "^1.0.0",
+    "superagent": "^4.0.0-beta.5"
+  },
+  "devDependencies": {
+    "fs-extra": "^7.0.0",
+    "html-minifier": "^3.5.20",
+    "html2json": "^1.0.2",
+    "lodash": "^4.17.10",
+    "mkdirp": "^0.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shicc",
+  "license": "ISC"
+}
